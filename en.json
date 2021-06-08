@@ -172,7 +172,7 @@
     "play_play_gotchi":"Play Aavegotchi",
 
     "gotchi_no_gotchi":"Don't have a Gotchi? Visit the Baazaar to get one!",
-    "gotchi_next_interaction_in":"Next interaction: {{countdown}}",
+    "gotchi_next_interaction_in":"Next interaction:",
     "gotchi_hours":"hours",
     "gotchi_visit_baazaar":"Visit Baazaar",
     "gotchi_pet_me_master":"Pet me Master!",
@@ -313,7 +313,7 @@
     "baazaar_portals_open":"Portals - Open",
     "baazaar_portals_closed":"Portals - Closed",
     "baazaar_collections":"Collections",
-    "baazaar_loading_listings":"loading listings",
+    "baazaar_loading_listings":"Loading listings...",
     "baazaar_loading_listing":"Loading listing",
     "baazaar_similar_listings":"Similar Listings",
     "baazaar_search_name":"Search by Name",
