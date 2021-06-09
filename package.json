@@ -1,0 +1,12 @@
+{
+  "name": "@aavegotchi/translation",
+  "version": "1.0.0",
+  "description": "awesome portable aavegotchi translations!",
+  "main": "dist/src/index.js",
+  "repository": "https://github.com/aavegotchi/aavegotchi-translation",
+  "author": "Pixelcraft Studios",
+  "license": "CC0",
+  "dependencies": {
+    "i18next": "^20.3.1"
+  }
+}
