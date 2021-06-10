@@ -1,15 +1,12 @@
 node_modules/
-yarn-error.log
 *.tgz
 dist/*.js
 blank_demo/
 *.bak
 *.lock
 src/*.js
-schema/staging
 gen/
 dist/
 secret.*
-docs/*.md
 *.wip
 *.log

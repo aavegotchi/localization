@@ -5,6 +5,7 @@ import secret from "../secret.json";
 import crowdin, { Credentials } from '@crowdin/crowdin-api-client';
 const credentials: Credentials = {
   token: secret.crowdin_api,
+  // organization: 'aavegotchi-localization' // other error org not found
 }
 const { projectsGroupsApi } = new crowdin(credentials);
 

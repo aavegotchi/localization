@@ -1,4 +1,9 @@
-import { t, useTranslation, Translation  } from "i18next";
+import t from "i18next";
+import requiredir from "require-dir";
 
+const keys = requiredir('../data/');
 
-
+export {
+  t,
+  keys
+}
