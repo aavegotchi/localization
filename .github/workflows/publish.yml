@@ -1,0 +1,32 @@
+name: pull-request
+on:
+  push:
+    branches:
+      - main
+    paths:
+        - folder/**
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout code
+        uses: actions/checkout@v2
+      - name: setup node
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12.0.0
+      - name: use cache
+        uses: actions/cache@v2
+        with:
+          path: |
+            node_modules
+            */*/node_modules
+          key: ${{ runner.os }}-${{ hashFiles('npm run.lock') }}
+      - name: install deps
+        run: npm i
+      - name: run test
+        run: npm run test
+      - name: run package
+        run: npm run bundle
+      - name: run publish
+        run: npm run publish

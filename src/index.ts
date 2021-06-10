@@ -1,9 +1,9 @@
 import t from "i18next";
 import requiredir from "require-dir";
 
-const keys = requiredir('../data/');
+const keys = requiredir('../folder/');
 
-export {
+export default {
   t,
   keys
 }
