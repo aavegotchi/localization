@@ -71,7 +71,7 @@
     "curve_current_price":"Current price: ",
     "curve_supply":"Supply",
     "curve_sending":"Sending",
-    
+
     "kyc_perform_kyc":"Perform KYC",
     "kyc_authorizing":"Authorizing",
     "kyc_loading_info":"Loading information",
@@ -82,7 +82,7 @@
     "kyc_fractal_uid":"Your Fractal UID is",
     "kyc_token_expired":"Your login with this token has expired. Please re-auth.",
     "kyc_re_auth":"Re-Auth",
-    
+
     "index_logged_in_welcome":"Welcome to Aavegotchi",
     "index_logged_in_play":"Play",
     "index_logged_in_dao":"AavegotchiDAO",
@@ -215,7 +215,7 @@
     "gotchi_add_spirit_force":"Add Spirit Force",
     "gotchi_take_spirit_force":"Take Spirit Force",
     "gotchi_your":"Your",
-    "gotchi_name_gotchi":"Name Aavegotchi",    
+    "gotchi_name_gotchi":"Name Aavegotchi",
     "gotchi_add":"Add",
     "gotchi_amount":"Amount",
     "gotchi_items":"Items",
@@ -482,10 +482,10 @@
     "bridge_claim_submited":"Claim Submitted",
     "bridge_deposit":"deposit",
     "bridge_withdraw":"withdraw",
-    "bridge_claim":"claim",  
+    "bridge_claim":"claim",
     "bridge_input":"Input",
-    "bridge_claim_on":"CLAIM ON",  
-    "bridge_reset_tx":"Reset this transaction? Only do this if your pending transaction has failed!!!",    
+    "bridge_claim_on":"CLAIM ON",
+    "bridge_reset_tx":"Reset this transaction? Only do this if your pending transaction has failed!!!",
 
     "stake_how_to_stake":"How to Stake",
     "stake_stake_earn_frens":"Stake GHST, GHST-QUICK LP tokens, or GHST-USDC LP tokens to earn FRENS!",
