@@ -1,12 +1,28 @@
-node_modules/
-*.tgz
-dist/*.js
-blank_demo/
-*.bak
-*.lock
-src/*.js
-gen/
-dist/
-secret.*
-*.wip
-*.log
+{
+  "name": "@aavegotchi/localization",
+  "version": "1.0.0",
+  "description": "awesome portable aavegotchi translations!",
+  "main": "dist/src/index.js",
+  "repository": "https://github.com/aavegotchi/localization",
+  "author": "Pixelcraft Studios",
+  "license": "CC0",
+  "dependencies": {
+    "i18next": "^20.3.1",
+    "require-dir": "^1.2.0"
+  },
+  "scripts": {
+    "read": "ts-node scripts/read.ts",
+    "release": "yarn update && yarn bundle && yarn publish"
+  },
+  "devDependencies": {
+    "@crowdin/crowdin-api-client": "^1.11.0",
+    "@types/chai": "^4.2.18",
+    "@types/debug": "^4.1.5",
+    "@types/mocha": "^8.2.2",
+    "@types/node": "^15.12.2",
+    "@types/require-dir": "^1.0.1",
+    "debug": "^4.3.1",
+    "ts-node": "^10.0.0",
+    "typescript": "^4.3.2"
+  }
+}
