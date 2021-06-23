@@ -531,6 +531,11 @@
     "stake_alert_not_enough_ghst":"Not enough GHST (Please reduce stake amount)",
     "stake_input_amount":"Input amount",
     "stake_warning_migration":"WARNING: Since January 20th, Aavegotchi has migrated to Matic Network. Any FRENS earned on Mainnet will NOT be transferred! Please remove your liquidity from Ethereum Mainnet and transfer to Matic.",
+    "stake_easy":"EASY",
+    "stake_advanced":"ADVANCED",
+    "stake_easy_1":"Stake GHST to earn 1 FRENS point / day per GHST",
+    "stake_easy_2":"Use FRENS to acquire TICKETS for raffle events where you can win Aavegotchi NFTs.",
+    "stake_advanced_1":"Earn even more FRENS by providing liquidity for GHST on Quickswap!",
 
     "gotchi_stats_gotchi_stats":"Gotchi Stats",
     "gotchi_stats_nrg":"⚡️ Energy",
