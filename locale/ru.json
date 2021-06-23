@@ -81,7 +81,7 @@
     "kyc_fractal_uid": "Ваш Fractal UID",
     "kyc_token_expired": "Срок действия вашего логина с этим токеном истек. Пожалуйста, авторизуйтесь повторно.",
     "kyc_re_auth": "Авторизуйтесь повторно",
-    "index_logged_in_welcome": "Добро пожаловать в Aavegotchi",
+    "index_logged_in_welcome": "Добро пожаловать",
     "index_logged_in_play": "Играть",
     "index_logged_in_dao": "AavegotchiDAO",
     "index_logged_in_learn_more": "Подробнее",
