@@ -436,6 +436,12 @@
     "tickets_Ticket_Legendary":"Ticket - Legendary",
     "tickets_Ticket_Mythical":"Ticket - Mythical",
     "tickets_Ticket_Godlike":"Ticket - Godlike",
+    "tickets_Ticket_Drop":"Ticket - Drop",
+    "tickets_convert_tickets":"Convert Tickets",
+    "tickets_convert":"Convert",
+    "tickets_ticket":"ticket",
+    "tickets_drop":"DROP",
+
 
     "claim_claim_all":"Claim All",
     "claim_claim_prizes":"Claim Prizes",
