@@ -468,6 +468,10 @@
   "dao_dao_holds": "The DAO Treasury holds:",
   "dao_what_is_dao": "What is the Treasury?",
   "dao_view_etherscan": "View on Etherscan",
+  "dao_estimate_gotchi_power":"is estimated Aavegotchi voting power.",
+  "dao_loading_estimates":"Loading Estimates...",
+  "dao_total_item_value":"is total value of Items.",
+  "dao_total_voting_power":"Total estimated voting power:",
 
   "resources_resources": "Resources",
   "resources_white_paper": "White Paper",
