@@ -513,6 +513,7 @@
   "stake_approving": "Подтверждение",
   "stake_staking": "Стейкинг",
   "stake_alert_usdc": "Пожалуйста, выведите stkGHST-USDC из Quickswap, прежде чем отстейкать!",
+  "stake_alert_weth": "Please withdraw stkGHST-WETH from Quickswap before unstaking!",
   "stake_alert_quick": "Пожалуйста, выведите stkGHST-QUICK из Quickswap, прежде чем отстейкать!",
   "stake_alert_more_than_staked": "Вы не можете вывести больше, чем застейкали",
   "stake_alert_nan": "Необходимо ввести число",
