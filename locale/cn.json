@@ -513,6 +513,7 @@
   "stake_approving": "确认中",
   "stake_staking": "质押中",
   "stake_alert_usdc": "解除质押前，请在Quickswap中赎回 stkGHST-USDC！",
+  "stake_alert_weth": "Please withdraw stkGHST-WETH from Quickswap before unstaking!",
   "stake_alert_quick": "解除质押前，请在Quickswap中赎回 stkGHST-QUICK！",
   "stake_alert_more_than_staked": "赎回量不可以超过质押量哦！",
   "stake_alert_nan": "请输入一个数字",
