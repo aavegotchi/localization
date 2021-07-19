@@ -513,7 +513,7 @@
   "stake_approving": "Aprobando",
   "stake_staking": "Invirtiendo",
   "stake_alert_usdc": "¡Por favor retira stkGHST-USDC de Quickswap antes de retirar tu inversión!",
-  "stake_alert_weth": "Please withdraw stkGHST-WETH from Quickswap before unstaking!",
+  "stake_alert_weth": "¡Por favor retira tu stkGHST-WETH de Quickswap antes de retirar tu inversión!",
   "stake_alert_quick": "¡Por favor retira stkGHST-QUICK de Quickswap antes de retirar tu inversión!",
   "stake_alert_more_than_staked": "¡No puedes retirar más de lo que has invertido!",
   "stake_alert_nan": "Debes ingresar un número",
