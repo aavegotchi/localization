@@ -513,6 +513,7 @@
   "stake_approving": "Đang Cho Phép",
   "stake_staking": "Đang stake",
   "stake_alert_usdc": "Vui lòng rút token stkGHST-USDC từ Quickswap trước khi unstake!",
+  "stake_alert_weth": "Please withdraw stkGHST-WETH from Quickswap before unstaking!",
   "stake_alert_quick": "Vui lòng rút token stkGHST-QUICK từ Quickswap trước khi unstake!",
   "stake_alert_more_than_staked": "Không thể rút nhiều hơn số token bạn đang stake!",
   "stake_alert_nan": "Phải nhập vào một con số",
