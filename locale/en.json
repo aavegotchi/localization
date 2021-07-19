@@ -535,6 +535,7 @@
   "stake_approving": "Approving",
   "stake_staking": "Staking",
   "stake_alert_usdc": "Please withdraw stkGHST-USDC from Quickswap before unstaking!",
+  "stake_alert_weth": "Please withdraw stkGHST-WETH from Quickswap before unstaking!",
   "stake_alert_quick": "Please withdraw stkGHST-QUICK from Quickswap before unstaking!",
   "stake_alert_more_than_staked": "Cannot withdraw more than you staked!",
   "stake_alert_nan": "Must input a number",
