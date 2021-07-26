@@ -391,6 +391,7 @@
   "baazaar_frens_balance": "Số dư FRENS của bạn:",
   "baazaar_loading_balances": "Đang tải số dư",
   "baazaar_only_mine": "chỉ xem dữ liệu của tôi",
+  "baazaar_listing_above_1ghst": "Listing price must be at least 1 GHST",
   "raffle_approve_to_enter": "Cho Phép để Tham Gia",
   "raffle_entering_tickets": "Đang dùng vé để tham gia",
   "raffle_enter": "Tham Gia",
