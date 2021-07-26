@@ -391,6 +391,7 @@
   "baazaar_frens_balance": "Your FRENS balance:",
   "baazaar_loading_balances": "Loading balances",
   "baazaar_only_mine": "only mine",
+  "baazaar_listing_above_1ghst": "Listing price must be at least 1 GHST",
   "raffle_approve_to_enter": "Approve to Enter",
   "raffle_entering_tickets": "Entering tickets",
   "raffle_enter": "Enter",
