@@ -391,6 +391,7 @@
   "baazaar_frens_balance": "Tu saldo de FRENS:",
   "baazaar_loading_balances": "Cargando saldo",
   "baazaar_only_mine": "sólo mío",
+  "baazaar_listing_above_1ghst": "Listing price must be at least 1 GHST",
   "raffle_approve_to_enter": "Aprobar para Introducir",
   "raffle_entering_tickets": "Introduciendo boletos",
   "raffle_enter": "Entrar",
