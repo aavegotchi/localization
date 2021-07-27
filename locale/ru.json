@@ -391,6 +391,7 @@
   "baazaar_frens_balance": "Ваш Frens баланс:",
   "baazaar_loading_balances": "Загрузка остатков",
   "baazaar_only_mine": "только мой",
+  "baazaar_listing_above_1ghst": "Listing price must be at least 1 GHST",
   "raffle_approve_to_enter": "Разрешить розыгрыш",
   "raffle_entering_tickets": "Ввод билетов",
   "raffle_enter": "Вступать",
