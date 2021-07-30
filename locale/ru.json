@@ -834,5 +834,16 @@
   "item_Water_bottle": "Бутылка с водой",
   "item_Pillbox_Hat": "Шляпа ДЗОТ",
   "item_Day_Dress": "Дневное Платье",
-  "item_Parasol": "Зонтик"
+  "item_Parasol": "Зонтик",
+  "item_Gamer_Jacket": "Gamer Jacket",
+  "item_Gotchi_Mug": "Gotchi Mug",
+  "item_Mechanical_Claw": "Mechanical Claw",
+  "item_Steampunk_Trousers": "Steampunk Trousers",
+  "item_Steampunk_Goggles": "Steampunk Goggles",
+  "item_Game_Controller": "Game Controller",
+  "item_VR_Headset": "VR Headset",
+  "item_Biker_Helmet": "Biker Helmet",
+  "item_Biker_Jacket": "Biker Jacket",
+  "item_Horseshoe_Mustache": "Horseshoe Mustache",
+  "item_Aviators": "Aviators"
 }
