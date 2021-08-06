@@ -107,7 +107,7 @@
   "get_ghst_desc_quickswap": "Polygon DEX, deep liquidity",
   "get_ghst_desc_binance": "CEX, deep liquidity",
   "get_ghst_desc_crypto": "Mobile CEX",
-  "get_ghst_desc_kraken": "Fiat on/off ramp",
+  "get_ghst_desc_kraken": "Fiat on/off ramp CEX",
   "buy_portals_how_many": "您想买多少？",
   "buy_portals_coming_soon": "即将上线",
   "buy_portals_you_have": "您已经拥有了这款",
