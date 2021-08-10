@@ -289,6 +289,7 @@
   "gotchi_confirm_number_of_items": "Подтвердите количество предметов",
   "gotchi_if_doesnt_match": "Если указанное количество предметов не соответствует изображению, пожалуйста",
   "gotchi_contact_dev": "обращайтесь к разработчику!",
+  "gotchi_gift": "Gift",
   "inventory_no_items": "У вас больше нет предметов!",
   "inventory_loading_inventory": "Загрузка Инвентаря",
   "inventory_approx_item_value": "Приблизительное стоимость предметов",
