@@ -289,6 +289,7 @@
   "gotchi_confirm_number_of_items": "确认装备",
   "gotchi_if_doesnt_match": "如果列出的项目数量与图片不符，请",
   "gotchi_contact_dev": "联系开发者",
+  "gotchi_gift": "Gift",
   "inventory_no_items": "你没有任何装备！",
   "inventory_loading_inventory": "加载库存",
   "inventory_approx_item_value": "装备总值",
