@@ -298,6 +298,7 @@
   "gotchi_confirm_number_of_items": "Confirm # of Items",
   "gotchi_if_doesnt_match": "If the listed item quantity does not match the picture, please",
   "gotchi_contact_dev": "contact a developer!",
+  "gotchi_gift":"Gift",
 
   "inventory_no_items": "You don't have any items!",
   "inventory_loading_inventory": "Loading Inventory",
