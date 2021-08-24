@@ -856,7 +856,7 @@
   "item_Haunt1_BG": "Fondo Ritual 1",
   "item_Guy_Fawkes_Mask": "Máscara de Guy Fawkes",
   "item_1337_Laptop": "Portátil 1337",
-  "item_H4xx0r_Shirt": "H4xx0r Shirt",
+  "item_H4xx0r_Shirt": "Camiseta H4xx0r",
   "item_Matrix_Eyes": "Ojos de Matrix",
   "item_Cyborg_Eye": "Ojo de Cíborg",
   "item_Rainbow_Vomit": "Vómito Arcoíris",
@@ -871,11 +871,11 @@
   "item_Basketball": "Balón de Baloncesto",
   "item_Red_Headband": "Cinta de Cabeza Roja",
   "item_23_Jersey": "Camiseta 23",
-  "item_10_Gallon_Hat": "10 Gallon Hat",
+  "item_10_Gallon_Hat": "Sombrero de 10 Galones",
   "item_Lasso": "Lazo",
-  "item_Wraangler_Jeans": "Wraangler Jeans",
-  "item_Comfy_Poncho": "Comfy Poncho",
-  "item_Poncho_Hoodie": "Poncho Hoodie",
+  "item_Wraangler_Jeans": "Pantalones de Vaquero",
+  "item_Comfy_Poncho": "Poncho Cómodo",
+  "item_Poncho_Hoodie": "Capucha del Poncho",
   "item_Uncommon_Cacti": "Cactus Poco Común",
   "item_Shaaman_Poncho": "Shaaman Poncho",
   "item_Shaaman_Hoodie": "Shaaman Hoodie",
@@ -886,6 +886,6 @@
   "item_Headphones": "Auriculares",
   "item_WGMI_Shirt": "WGMI Shirt",
   "item_Yellow_Manbun": "Moño Amarillo",
-  "item_Tinted_Shades": "Tinted Shades",
-  "item_V-Neck_Shirt": "V-Neck Shirt"
+  "item_Tinted_Shades": "Gafas Tintadas",
+  "item_V-Neck_Shirt": "Camiseta con Cuello en V"
 }
