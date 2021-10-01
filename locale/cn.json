@@ -680,7 +680,7 @@
   "settings_false": "不正确",
   "settings_site_theme": "网站主题",
   "settings_current": "当前",
-  "settings_share_twitter": "Share purchases on Twitter",
+  "settings_share_twitter": "Display Twitter popup after purchase",
   "item_The_Void": "虚空",
   "item_Camo_Hat": "迷彩帽",
   "item_Link_White_Hat": "LINK白帽子",
@@ -906,5 +906,6 @@
   "item_Signal_Headset": "Signal Headset",
   "item_Taoist_Robe": "Taoist Robe",
   "item_Bushy_Eyebrows": "Bushy Eyebrows",
-  "item_Beard_of_Wisdom": "Beard of Wisdom"
+  "item_Beard_of_Wisdom": "Beard of Wisdom",
+  "item_Gecko_Hat": "Gecko Hat"
 }
