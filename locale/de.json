@@ -680,7 +680,7 @@
   "settings_false": "Aus",
   "settings_site_theme": "Seiten Design:",
   "settings_current": "Aktuell",
-  "settings_share_twitter": "Share purchases on Twitter",
+  "settings_share_twitter": "Display Twitter popup after purchase",
   "item_The_Void": "Die Leere",
   "item_Camo_Hat": "Tarnkappe",
   "item_Link_White_Hat": "Weiße Link Kappe",
@@ -906,5 +906,6 @@
   "item_Signal_Headset": "Signal Headset",
   "item_Taoist_Robe": "Taoist Robe",
   "item_Bushy_Eyebrows": "Bushy Eyebrows",
-  "item_Beard_of_Wisdom": "Beard of Wisdom"
+  "item_Beard_of_Wisdom": "Beard of Wisdom",
+  "item_Gecko_Hat": "Gecko Hat"
 }
