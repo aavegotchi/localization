@@ -680,7 +680,7 @@
   "settings_false": "Sai",
   "settings_site_theme": "Chủ Đề Của Giao Diện",
   "settings_current": "Hiện tại",
-  "settings_share_twitter": "Share purchases on Twitter",
+  "settings_share_twitter": "Display Twitter popup after purchase",
   "item_The_Void": "Hư Không",
   "item_Camo_Hat": "Mũ Camo",
   "item_Link_White_Hat": "Mũ Link Trắng",
@@ -906,5 +906,6 @@
   "item_Signal_Headset": "Signal Headset",
   "item_Taoist_Robe": "Taoist Robe",
   "item_Bushy_Eyebrows": "Bushy Eyebrows",
-  "item_Beard_of_Wisdom": "Beard of Wisdom"
+  "item_Beard_of_Wisdom": "Beard of Wisdom",
+  "item_Gecko_Hat": "Gecko Hat"
 }
