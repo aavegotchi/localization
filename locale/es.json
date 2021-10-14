@@ -537,6 +537,7 @@
   "stake_advanced_1": "¡Gana aún más FRENS proporcionando liquidez con GHST en Quickswap!",
   "stake_make_frens": "INVIERTE GHST, RECIBE FRENS",
   "stake_increase_allowance": "Increase Allowance",
+  "stake_allowance_low": "Allowance Too Low",
   "aauction_instructions": "Instrucciones",
   "aauction_open_aauctions": "Subaastas Abiertas",
   "aauction_my_bids": "Mis Pujas",
