@@ -536,6 +536,8 @@
   "stake_easy_2": "Dùng FRENS mua TICKETS để tham gia các sự kiện raffle giúp bạn có cơ hội trúng các NFT trong Aavegotchi.",
   "stake_advanced_1": "Kiếm nhiều FRENS hơn bằng cách cung cấp thanh khoản cho GHST trên Quickswap!",
   "stake_make_frens": "STAKE GHST, NHẬN FRENS",
+  "stake_increase_allowance": "Increase Allowance",
+  "stake_allowance_low": "Allowance Too Low",
   "aauction_instructions": "Hướng dẫn",
   "aauction_open_aauctions": "Đấu Giá Đang Mở",
   "aauction_my_bids": "Lệnh Của Tôi",

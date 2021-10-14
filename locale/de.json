@@ -536,6 +536,8 @@
   "stake_easy_2": "Verwende FRENS, um TICKETS für Tombola-Events zu erhalten, bei denen Du Aavegotchi NFTs gewinnen kannst.",
   "stake_advanced_1": "Verdiene noch mehr FRENS durch Bereitstellung von Liquidität für GHST auf Quickswap!",
   "stake_make_frens": "STAKE GHST, ERHALTE FRENS",
+  "stake_increase_allowance": "Increase Allowance",
+  "stake_allowance_low": "Allowance Too Low",
   "aauction_instructions": "Anleitung",
   "aauction_open_aauctions": "Offene Aauctions",
   "aauction_my_bids": "Meine Gebote",
