@@ -537,6 +537,7 @@
   "stake_advanced_1": "通过在Quickswap上为GHST 提供流动资金来赚取更多FRENS！",
   "stake_make_frens": "质押GHST，赚取FRENS",
   "stake_increase_allowance": "Increase Allowance",
+  "stake_allowance_low": "Allowance Too Low",
   "aauction_instructions": "说明",
   "aauction_open_aauctions": "开启拍卖",
   "aauction_my_bids": "我的竞价",
