@@ -299,6 +299,9 @@
   "gotchi_if_doesnt_match": "If the listed item quantity does not match the picture, please",
   "gotchi_contact_dev": "contact a developer!",
   "gotchi_gift": "Gift",
+  "gotchi_batch_transfer": "Batch Transfer",
+  "gotchi_select_to_transfer": "Select up to 50 aavegotchis to transfer",
+  "gotchi_selected": "Selected",
 
   "inventory_no_items": "You don't have any items!",
   "inventory_loading_inventory": "Loading Inventory",
