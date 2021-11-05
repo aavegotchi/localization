@@ -433,6 +433,12 @@
   "raffle_click_to_claim": "Click to Claim Prizes",
   "raffle_click_to_draw": "Click to Draw Number",
   "raffle_choosing_random": "Choosing random number...",
+  "raffle_approve_to_accept": "Approves the Raffle contract to accept your tickets",
+  "raffle_enter_all_in_one": "Enters all ticket types in one transaction",
+  "raffle_owned": "Owned:",
+  "raffle_available": "Available",
+  "raffle_enter_all_tickets": "Enter all tickets",
+  "raffle_no_tickets_to_enter": "No tickets to enter",
 
   "tickets_not_enough": "Not enough",
   "tickets_approve_listing": "Approve Listing",
@@ -937,6 +943,10 @@
   "realm_address":"Address:",
   "realm_realm_in_baazaar":"REALM Parcels in the Baazaar!",
   "realm_realm_parcels":"REALM Parcels",
+  "realm_approve_ghst":"Approve GHST",
+  "realm_costs_ghst":"Costs 0.1 GHST",
+  "realm_name":"Name:",
+  "realm_region":"Region:",
 
   "item_The_Void": "The Void",
   "item_Camo_Hat": "Camo Hat",
