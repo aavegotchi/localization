@@ -46,7 +46,7 @@
   "curve_perform_kyc": "KYCを実行してロックを解除する",
   "curve_accept_tc": "利用規約に同意します",
   "curve_pending_tx": "保留中の取引",
-  "curve_no_open_tx": "You have no open transactions.",
+  "curve_no_open_tx": "有効なトランザクションがありません",
   "curve_type": "Type",
   "curve_status": "Status",
   "curve_mt_tx": "My Transactions",
