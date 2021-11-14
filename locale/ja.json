@@ -545,7 +545,7 @@
   "bridge_copy_tx": "下のフィールドに入力してタップして下さい。",
   "bridge_enter_tx_hash": "Tx Hash入力",
   "bridge_submit": "送信",
-  "bridge_add_tx_hash": "Add Transaction Hash",
+  "bridge_add_tx_hash": "トランザクションハッシュを追加",
   "stake_how_to_stake": "How to Stake",
   "stake_stake_earn_frens": "Stake GHST, GHST-QUICK LP tokens, or GHST-USDC LP tokens to earn FRENS!",
   "stake_redeem_frens": "Redeem your FRENS for raffle tickets in the Aavegotchi Shop.",
