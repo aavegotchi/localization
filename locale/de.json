@@ -71,7 +71,7 @@
   "curve_current_price": "Aktueller Preis: ",
   "curve_supply": "Vorrat",
   "curve_sending": "Wird gesendet...",
-  "kyc_perform_kyc": "Kundenidentifikation (KYC) durchführen",
+  "kyc_perform_kyc": "Kundenidentifikation, KYC, durchführen",
   "kyc_authorizing": "Genehmigen",
   "kyc_loading_info": "Lade Daten",
   "kyc_only_to_buy_ghst": "KYC ist nur nötig, um GHST von der Bonding-Curve zu erwerben. Du brauchst KEIN KYC um Aavegotchi zu spielen oder GHST zu staken!",
