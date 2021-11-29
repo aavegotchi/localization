@@ -997,6 +997,8 @@
   "realm_you_won_the_auction": "You won the auction!",
   "realm_parcel_details": "Parcel details",
   "realm_baazaar_price": "Baazaar price:",
+  "realm_district":"District",
+  "realm_size":"Size",
 
   "item_The_Void": "The Void",
   "item_Camo_Hat": "Camo Hat",
