@@ -578,6 +578,7 @@
   "bridge_enter_tx_hash": "Enter Tx Hash",
   "bridge_submit": "Submit",
   "bridge_add_tx_hash": "Add Transaction Hash",
+  "bridge_bridge_to_polygon": "Bridge to Matic",
 
   "stake_how_to_stake": "How to Stake",
   "stake_stake_earn_frens": "Stake GHST, GHST-QUICK LP tokens, or GHST-USDC LP tokens to earn FRENS!",
