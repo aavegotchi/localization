@@ -787,7 +787,7 @@
   "realm_sort": "Ordenar",
   "realm_results": "Resultados",
   "realm_no_results": "No se encontraron resultados!",
-  "realm_check_spelling": "Revisa la ortografía o intenta usar otros filtros.",
+  "realm_check_spelling": "Please check spelling or try different filters Otherwise, there is no Auction active.",
   "realm_open_bids": "pujas abiertas",
   "realm_total_payouts": "Pagos totales",
   "realm_ghst_earned": "Total de GHST ganados por ser sobrepujado.",
