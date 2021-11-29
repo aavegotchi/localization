@@ -787,7 +787,7 @@
   "realm_sort": "並べ替え",
   "realm_results": "検索結果",
   "realm_no_results": "見つかりませんでした。",
-  "realm_check_spelling": "スペルを確認するか、別のフィルターを試して下さい。",
+  "realm_check_spelling": "Please check spelling or try different filters Otherwise, there is no Auction active.",
   "realm_open_bids": "オープン入札",
   "realm_total_payouts": "配当後計",
   "realm_ghst_earned": "アウトビッドから得られたGHST合計。",
