@@ -416,6 +416,7 @@
   "baazaar_never_sold": "never sold",
   "baazaar_closed_portals": "portals-closed",
   "baazaar_open_portals": "portals-open",
+  "baazaar_filter_haunt": "Haunt {{haunt}}",
   "raffle_approve_to_enter": "Approve to Enter",
   "raffle_entering_tickets": "Entering tickets",
   "raffle_enter": "Enter",

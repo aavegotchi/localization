@@ -416,6 +416,7 @@
   "baazaar_never_sold": "从未出售过",
   "baazaar_closed_portals": "portals-closed",
   "baazaar_open_portals": "portals-open",
+  "baazaar_filter_haunt": "鬼波 {{haunt}}",
   "raffle_approve_to_enter": "批准进入",
   "raffle_entering_tickets": "放入门票",
   "raffle_enter": "进入",
