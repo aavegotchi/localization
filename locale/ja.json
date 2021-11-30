@@ -416,6 +416,7 @@
   "baazaar_never_sold": "販売履歴見つかりません",
   "baazaar_closed_portals": "portals-closed",
   "baazaar_open_portals": "portals-open",
+  "baazaar_filter_haunt": "出没 {{haunt}}",
   "raffle_approve_to_enter": "承認してください",
   "raffle_entering_tickets": "チケット送信中",
   "raffle_enter": "参加する",
