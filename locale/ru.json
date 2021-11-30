@@ -416,6 +416,7 @@
   "baazaar_never_sold": "никогда не продавался",
   "baazaar_closed_portals": "portals-closed",
   "baazaar_open_portals": "portals-open",
+  "baazaar_filter_haunt": "Явление {{haunt}}",
   "raffle_approve_to_enter": "Разрешить розыгрыш",
   "raffle_entering_tickets": "Ввод билетов",
   "raffle_enter": "Вступать",
