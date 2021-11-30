@@ -783,7 +783,7 @@
   "realm_sort": "Sort",
   "realm_results": "Results",
   "realm_no_results": "No results found!",
-  "realm_check_spelling": "Please check spelling or try different filters.",
+  "realm_check_spelling": "Please check spelling or try different filters. Otherwise, there is no Auction active.",
   "realm_open_bids": "open bids",
   "realm_total_payouts": "Total Payouts",
   "realm_ghst_earned": "Total GHST earned from getting outbid.",
