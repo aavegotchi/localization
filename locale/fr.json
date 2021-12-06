@@ -23,6 +23,8 @@
   "index_404_title": "Page not found",
   "index_404_message": "Oops! Looks like there is nothing here...",
   "index_404_button": "Back to start",
+  "index_500_title": "Server Error",
+  "index_500_message": "Oops! An unexpected error seems to have occured",
   "footer_vote": "Voter",
   "footer_brand_kit": "Brand Kit",
   "footer_join_us": "Rejoins-nous",
