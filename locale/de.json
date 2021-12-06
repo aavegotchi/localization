@@ -518,7 +518,7 @@
   "bridge_coming_soon": "ERC721 (demnächst verfügbar)",
   "bridge_1155_coming_soon": "ERC1155 (bald verfügbar)",
   "bridge_deposit_instructions": "Einzahlungs-Anweisungen",
-  "bridge_deposit_instructions_full": "Once your transaction has confirmed on Ethereum, it takes roughly 7-8 minutes for your balance to reflect on Polygon. Your balance will update automatically.",
+  "bridge_deposit_instructions_full": "Nach Bestätigung Deiner Transaktion auf Ethereum, erscheint nach ungefähr 7-8 Minuten Dein Guthaben auf Polygon. Es wird automatisch aktualisiert.",
   "bridge_withdraw_instructions": "Auszahlungs-Anleitung",
   "bridge_withdraw_instructions_full": "Withdrawing from Polygon takes approximately 2-3 hours, sometimes longer. After the withdrawal is complete, you still need to click 'CLAIM ON ETHEREUM' to get your tokens on Ethereum Mainnet.",
   "bridge_to_transfer": " zu übertragen",
