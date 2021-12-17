@@ -299,7 +299,7 @@
   "gotchi_contact_dev": "開発者に連絡下さい!",
   "gotchi_gift": "転送する",
   "gotchi_batch_transfer": "一括転送",
-  "gotchi_select_to_transfer": "転送するゴッチを最大50名まで選択出来ます",
+  "gotchi_select_to_transfer": "Select up to 50 items to transfer",
   "gotchi_selected": "選択済み",
   "gotchi_view_owner": "オーナーを表示",
   "inventory_no_items": "アイテムがありません！",
