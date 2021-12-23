@@ -1019,6 +1019,11 @@
   "realm_size":"Size",
   "realm_gift_parcels":"Gift Parcels",
 
+  "notification_success":"Success",
+  "notification_warning":"Warning",
+  "notification_info":"Info",
+  "notification_tx_complete":"Your transaction completed successfully!",
+
   "item_The_Void": "The Void",
   "item_Camo_Hat": "Camo Hat",
   "item_Link_White_Hat": "Link White Hat",
