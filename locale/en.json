@@ -108,9 +108,7 @@
   "index_logged_in_out_of_matic": "You're out of MATIC!",
   "index_logged_in_low_on_matic": "You're low on MATIC!",
   "index_logged_in_swap_for_gas": "Swap for Gas Token",
-  "index_logged_in_graph_warning_lagging": "TheGraph is currently lagging!",
-  "index_logged_in_graph_warning_broken": "TheGraph is currently broken :(",
-  "index_logged_in_graph_status": "Check TheGraph Status page",
+  "index_logged_in_graph_warning_lagging": "The Aavegotchi Subgraph is currently [AMOUNT] blocks behind. Petting and Baazaar Listings may be delayed while it catches up.",
 
   "audits_audits": "Audits",
   "audits_bonding_curve": "Bonding Curve",
