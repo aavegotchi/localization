@@ -104,7 +104,7 @@
   "index_logged_in_out_of_matic": "Dir sind die MATIC ausgegangen!",
   "index_logged_in_low_on_matic": "Du hast nur noch wenig MATIC!",
   "index_logged_in_swap_for_gas": "Tausche für Gas-Tokens",
-  "index_logged_in_graph_warning_lagging": "The Aavegotchi Subgraph is currently <*{{AMOUNT}}*> blocks behind. Petting and Baazaar Listings may be delayed while it catches up.",
+  "index_logged_in_graph_warning_lagging": "Der Aavegotchi Subgraph ist derzeit <*{{AMOUNT}}*> Blöcke zurück. Petting und Baazaar Einträge können verzögert sein, während er wieder aufholt.",
   "audits_audits": "Audits",
   "audits_bonding_curve": "Bonding Kurve",
   "audits_staking_contract": "Staking Vertrag",
