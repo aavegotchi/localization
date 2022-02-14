@@ -598,7 +598,7 @@
   "stake_alert_nan": "È necessario inserire un numero",
   "stake_alert_not_enough_ghst": "Non abbastanza GHST (Si prega di ridurre l'importo da mettere in staking)",
   "stake_input_amount": "Inserisci importo",
-  "stake_warning_migration": "WARNING: Since January 20th, Aavegotchi has migrated to Matic Network. Any FRENS earned on Mainnet will NOT be transferred! Please remove your liquidity from Ethereum Mainnet and transfer to Matic.",
+  "stake_warning_migration": "ATTENZIONE: Dal 20 gennaio, Aavegotchi è migrato su Matic Network. Qualsiasi FRENS guadagnato su Mainnet NON verrà trasferito! Si prega di rimuovere la liquidità da Ethereum Mainnet e di trasferire su Matic.",
   "stake_easy": "FACILE",
   "stake_advanced": "AVANZATO",
   "stake_easy_1": "Metti in stake GHST per guadagnare 1 punto FRENS / giorno per GHST",
