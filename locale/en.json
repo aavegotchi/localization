@@ -1020,6 +1020,8 @@
   "realm_district":"District",
   "realm_size":"Size",
   "realm_gift_parcels":"Gift Parcels",
+  "realm_gotchiverse_land":"Gotchiverse Land",
+  "realm_land":"Land",
 
   "notification_success":"Success",
   "notification_warning":"Warning",
