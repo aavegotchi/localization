@@ -1053,6 +1053,7 @@
   "lending_polygon_address": "Địa chỉ Polygon",
   "lending_no_ghst_upfront": "KHÔNG CÓ PHÍ BAN ĐẦU",
   "lending_ghst_in_pocket": "Gotchi có GHST trong ví sẽ phải chia số token này",
+  "lending_gotchi_lent_out": "This Gotchi is Lent out",
   "item_The_Void": "Hư Không",
   "item_Camo_Hat": "Mũ Camo",
   "item_Link_White_Hat": "Mũ Link Trắng",
