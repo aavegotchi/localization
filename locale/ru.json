@@ -1034,7 +1034,7 @@
   "lending_other_address_required": "Other receives {{SHARE}}% of rewards. Valid Third-Party address required.",
   "lending_create_lend_listing": "Create Lend Listing",
   "lending_created_with_id": "Whitelist created with ID",
-  "lending_whitelists": "Whitelists",
+  "lending_whitelists": "Белые списки",
   "lending_duration_hours": "Lend Duration (Hours)",
   "lending_tap_toggle": "Tap to Toggle",
   "lending_update_whitelist": "Update Whitelist",
