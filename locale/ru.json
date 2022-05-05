@@ -996,7 +996,7 @@
   "notification_tx_complete": "Транзакция завершилась успешно!",
   "lending_gotchi_lending": "Аренда Готчи",
   "lending_borrower": "Заёмщик",
-  "lending_other": "Other",
+  "lending_other": "Третья сторона",
   "lending_create_listing": "Создать объявление",
   "lending_listing_for": "Займ для {{NAME}}",
   "lending_duration": "Длительность",
